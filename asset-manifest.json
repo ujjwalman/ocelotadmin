@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "ocelotadmin/static/css/main.2019c578.css",
-    "main.js": "ocelotadmin/static/js/main.53850d5b.js",
-    "static/js/787.37a40223.chunk.js": "ocelotadmin/static/js/787.37a40223.chunk.js",
-    "index.html": "ocelotadmin/index.html",
-    "main.2019c578.css.map": "ocelotadmin/static/css/main.2019c578.css.map",
-    "main.53850d5b.js.map": "ocelotadmin/static/js/main.53850d5b.js.map",
-    "787.37a40223.chunk.js.map": "ocelotadmin/static/js/787.37a40223.chunk.js.map"
+    "main.css": "/ocelotadmin/static/css/main.2019c578.css",
+    "main.js": "/ocelotadmin/static/js/main.c1c0573c.js",
+    "static/js/787.37a40223.chunk.js": "/ocelotadmin/static/js/787.37a40223.chunk.js",
+    "index.html": "/ocelotadmin/index.html",
+    "main.2019c578.css.map": "/ocelotadmin/static/css/main.2019c578.css.map",
+    "main.c1c0573c.js.map": "/ocelotadmin/static/js/main.c1c0573c.js.map",
+    "787.37a40223.chunk.js.map": "/ocelotadmin/static/js/787.37a40223.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2019c578.css",
-    "static/js/main.53850d5b.js"
+    "static/js/main.c1c0573c.js"
   ]
 }
